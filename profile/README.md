@@ -63,20 +63,59 @@
 
 ---
 
-# 기술적 경험
+# 역할 분담
+
+<table>
+  <tr>
+      <td align="center">
+        <a href="https://github.com/seminss">
+          <img src="https://avatars.githubusercontent.com/seminss" width="120px;" alt="seminss">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jiwon718">
+          <img src="https://avatars.githubusercontent.com/jiwon718" width="120px;" alt="jiwon718">
+        </a>
+      </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/seminss">
+        김세민
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jiwon718">
+        이지원
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🐰 김세민 (FE & BE)
+- K-Culture 관련 명소 데이터 수집 및 DB 저장
+- Chat GPT를 이용하여 국문 데이터 영문으로 번역
+- 회원 관련 화면 및 Rest API 구현
+- 국내 여행지 검색 화면 및 Rest API 구현
+- 여행 계획 화면 및 Rest API 구현
+
+## 🦊 이지원 (FE & BE)
+- 영문 국내 여행지 데이터 수집 및 DB 저장
+- 여행 테마 테스트 화면 및 Rest API 구현
+- 여행 후기 게시판 화면 및 Rest API 구현
 
 ---
 
+# 기술적 경험
 
 
-<br>
 
 ---
 
 # 아키텍처
 
 ## FE
-<img src="https://github.com/First-Time-Korea/.github/assets/65807803/9b3b3272-25bb-4219-bb8d-9addd5c0ebe6" width="700px" />
+<img src="https://github.com/First-Time-Korea/.github/assets/65807803/9b3b3272-25bb-4219-bb8d-9addd5c0ebe6" />
 
 ```
 ├─api
@@ -101,12 +140,12 @@
 ├─stores
 ├─util
 └─views
-    └─plan
+
 ```
 
 ## BE
 
-<img src="https://github.com/First-Time-Korea/.github/assets/65807803/4d0b180f-697a-4f81-bba4-6cb880391946" width="700px" />
+<img src="https://github.com/First-Time-Korea/.github/assets/65807803/4d0b180f-697a-4f81-bba4-6cb880391946"/>
 
 ```
 ├─java
@@ -152,9 +191,3 @@
     └─mapper
 
 ```
-
----
-
-# 역할 분담
-
-
