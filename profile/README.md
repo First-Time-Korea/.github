@@ -108,7 +108,9 @@
 
 # 기술적 경험
 
+[GPT API를 이용 영문 데이터베이스 구축](https://seminss.tistory.com/14)
 
+[스토어드 프로시저 적용기](https://seminss.tistory.com/15)
 
 ---
 
